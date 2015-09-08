@@ -9,7 +9,7 @@
  *    Author URI:  http://zagalski.pl
  **/
 
-class User_Expirance extends User_Expirance_Interface
+class User_Expirance extends User_Expirance_Abstract
 {
-    
+  
 }
