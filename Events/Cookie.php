@@ -14,6 +14,9 @@ static class CookieEvent
        */
       static public function check()
       {
+        /**
+         * 
+         */
         if(!isset($_COOKIE['user_expirance'])) {
             return false;
         } else {
